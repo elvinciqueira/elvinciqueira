@@ -1,6 +1,6 @@
 ### DON'T PANIC! 
 
-My name is Elvin Ciqueira from Brazil (🇧🇷). I've been working as Front-End Developer since 2019 and currently I'm Front-End Devloper at [ACE1](https://ace1.com.br/). I'm passionate about learning and discovering new stuff.
+My name is Elvin Ciqueira from Brazil (🇧🇷). I've been working as Front-End Developer since 2019 and currently I'm Front-End Devloper at [Ferreri](https://ferreri.co/). I'm passionate about learning and discovering new stuff.
 
 In my free time I like to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life.
 
